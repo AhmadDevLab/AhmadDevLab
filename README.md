@@ -13,17 +13,14 @@ I'm a passionate app developer with expertise in **native Android development** 
 ---
 
 ## 🚀 Projects:
-- 🔧 Native Android Projects (Kotlin, Firebase, MVVM)
+- 🔧 Native Android Projects (Kotlin)
 - 📱 Cross-platform Apps with React Native
-- 📊 Task Management Apps & FYP Tools
 
 ---
 
 ## 📬 Connect with me:
-- 📧 Email: yourname@example.com
-- 🌐 Portfolio: [your-website.com](https://your-website.com)
-- 📷 Instagram: [@yourhandle](https://instagram.com/yourhandle)
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 📧 Email: ahmaddev0011@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/ahmad-ullah-2b0b20245
 
 ---
 
